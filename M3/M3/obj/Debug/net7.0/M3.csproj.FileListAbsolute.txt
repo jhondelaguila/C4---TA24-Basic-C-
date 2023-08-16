@@ -1,0 +1,15 @@
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/bin/Debug/net7.0/M3
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/bin/Debug/net7.0/M3.deps.json
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/bin/Debug/net7.0/M3.runtimeconfig.json
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/bin/Debug/net7.0/M3.dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/bin/Debug/net7.0/M3.pdb
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/M3.csproj.AssemblyReference.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/M3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/M3.AssemblyInfoInputs.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/M3.AssemblyInfo.cs
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/M3.csproj.CoreCompileInputs.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/M3.dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/refint/M3.dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/M3.pdb
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/M3.genruntimeconfig.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M3/M3/obj/Debug/net7.0/ref/M3.dll
