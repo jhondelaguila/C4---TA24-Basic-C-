@@ -127,8 +127,6 @@ namespace M3
                 first = second;
                 second = next;
             }
-
-            Console.WriteLine();
         }
     }
 }

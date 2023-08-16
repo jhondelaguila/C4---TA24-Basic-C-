@@ -1,0 +1,15 @@
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/bin/Debug/net7.0/M4
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/bin/Debug/net7.0/M4.deps.json
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/bin/Debug/net7.0/M4.runtimeconfig.json
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/bin/Debug/net7.0/M4.dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/bin/Debug/net7.0/M4.pdb
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/M4.csproj.AssemblyReference.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/M4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/M4.AssemblyInfoInputs.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/M4.AssemblyInfo.cs
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/M4.csproj.CoreCompileInputs.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/M4.dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/refint/M4.dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/M4.pdb
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/M4.genruntimeconfig.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA24-Basic-C-/M4/M4/obj/Debug/net7.0/ref/M4.dll
